@@ -1,6 +1,6 @@
 # 🔍 Crime Data Analysis in India
 
-![Crime Analysis Visualization](A_detailed_data_visualization_of_crime_analysis_in.png)
+![Crime Analysis](crime image.webp)
 
 ## 📌 Introduction
 This project aims to analyze crime trends in India using a dataset containing crime records across various cities. The analysis includes identifying the most crime-affected cities, understanding gender-based victimization, and examining crime distribution by age groups.
